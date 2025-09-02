@@ -29,7 +29,7 @@ This project predicts **student academic performance** based on various socio-ec
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/student-performance-indicator.git
+git clone https://github.com/ommehta4920/StudentPerformanceIndicator.git
 cd student-performance-indicator
 ```
 
